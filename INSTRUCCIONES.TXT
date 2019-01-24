@@ -1,0 +1,9 @@
+1. Copiar en la carpeta todos los CSV deseados. Comprobar que los ficheros guardan el formato de SEMRUSH o de MOZ. 
+
+2. ¡Ejecutar y seguir las instrucciones de la termina!
+
+#################
+
+*Si deseas borrar palabras clave a traves de un ficher 'txt' debes de crear un fichero con el mismo formato que 'palabras.txt', es decir, colocando un "," al final de cada palara y escribiendo las mismas individualmente en cada línea. 
+
+
